@@ -1,0 +1,42 @@
+body {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    background-image: url("/images/airplane.jpeg");
+    display: block;
+    text-align: center;
+}
+
+tr,
+th {
+    text-align: center;
+}
+
+h1 {
+    font-size: 30px;
+    color: #333;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.new-flight {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    display: block;
+    text-align: center;
+    display: inline-block;
+    background-color: #dee2e6;
+}
+
+.newticket {
+    border: #333 6px solid;
+    background-color: #8fa4c7;
+    display: inline-grid;
+    padding: 10px;
+}
+
+form {
+    display: inline-block;
+    text-align: center;
+    padding: auto;
+}
